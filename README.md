@@ -40,3 +40,26 @@ Give users instant access to key performance indicators (KPIs) so they can make 
 
 Enable cross-ABB comparisons to pinpoint areas in need of strategic planning and enhancement.
 
+Proposal evaluation criteria:
+ABB will evaluate the proposal based on various criteria that are given below:
+Functional specification: The proposed system should meet the all the minimum specification required and address the ABB business' need.
+Cost: Most cost effective system  meeting the functional required, maintnance and training for the employees is given prority.
+Scalablity: The system must be scalable as ABB has huge growth potential.
+
+Technical Expertise: The proposal has to be technically literate on the field.
+Vendors Reputation: The vendor has to be have track record of providing high quality products and services.
+
+Additional Information: 
+ABB is to consider software development, SaaS solutions  or any existing application and component based solution.
+
+The proposed proposal has to be seamless with the existing system and website.
+ABB is commited to long term partnership with the vendor future training and maintenanace.
+
+Contact Information
+
+For any inquiries or proposal submissions, please contact:
+
+Aussie Business Buzz
+Attn: Procurement Manager
+
+

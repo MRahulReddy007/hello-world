@@ -56,3 +56,18 @@ Collaboration
 
 If clients are more involved throughout the development process, scrum methodology would be preferred. In waterfall development, clients are less likely to be involved and teams are more concerned about their specific tasks. In a scrum development, developers and clients collaborate on the software to determine whether changes are needed, and clients would be able to assess whether the software developed is aligned with the client’s needs.
 
+
+Proposal Evaluation
+
+
+ABB will evaluate the different proposals based on functionality, cost efficiency, scalability, relevance, and capability.
+
+Functionality: The system must have the ability to meet all the expected functionalities provided in the agreement.
+
+Cost efficiency: The system must be developed and operated with the least possible cost while providing a high value. This includes training costs, operation costs, and maintenance costs of the system.
+
+Scalability: The system must be able to support future feature implementation with minimal change requests or be integration-ready.
+
+Relevance: All system features and components must be relevant to the business needs.
+
+Capability: Developers or vendors must demonstrate a strong technological background and have a good reputation for meeting expectations and deadlines.

@@ -1,6 +1,6 @@
 # Task 2: Request for Proposal
 
-** Aussie Business Buzz Integrated Management System **
+**Aussie Business Buzz Integrated Management System**
 
 ## Introduction
 

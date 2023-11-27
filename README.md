@@ -40,25 +40,7 @@ Give users instant access to key performance indicators (KPIs) so they can make 
 
 Enable cross-ABB comparisons to pinpoint areas in need of strategic planning and enhancement.
 
-Guidelines for Determining Software Development Methodology
-
-Some factors to determine whether a scrum or waterfall approach is required includes:
-
-Timeline
-
-When a project requires a more fixed timeline, waterfall methodology will be a preferred compared to scrum. Due to certain projects requiring to have a definitive features and finish date, some projects would require a waterfall approach. On the other hand, scrum methodology allows a more flexible timeline which can change depending on the system requirements as the software development cycle progresses.
-
-Flexibility
-
-Projects which have strict and definitive requirements are more likely to adopt a waterfall methodology, due to the waterfall’s nature of having a linear development cycle. While agile provides a more flexible software development cycle, client feedback enables developers to realign software development requirements to fit client’s needs.
-
-Collaboration
-
-If clients are more involved throughout the development process, scrum methodology would be preferred. In waterfall development, clients are less likely to be involved and teams are more concerned about their specific tasks. In a scrum development, developers and clients collaborate on the software to determine whether changes are needed, and clients would be able to assess whether the software developed is aligned with the client’s needs.
-
-
 Proposal Evaluation
-
 
 ABB will evaluate the different proposals based on functionality, cost efficiency, scalability, relevance, and capability.
 
@@ -71,6 +53,24 @@ Scalability: The system must be able to support future feature implementation wi
 Relevance: All system features and components must be relevant to the business needs.
 
 Capability: Developers or vendors must demonstrate a strong technological background and have a good reputation for meeting expectations and deadlines.
+
+Answering Questions
+
+ABB will provide dedicated channels and communication in order to respond to proposers. The channels provided will also be used to update proposers any updates regarding the approval or rejection of their proposals, as well as any further questions needed for clarification or any feature improvements.
+
+Additional Information: 
+
+ABB is to consider software development, SaaS solutions  or any existing application and component based solution.
+
+The proposed proposal has to be seamless with the existing system and website.
+ABB is commited to long term partnership with the vendor future training and maintenanace.
+
+Contact Information
+
+For any inquiries or proposal submissions, please contact:
+
+Aussie Business Buzz
+Attn: Procurement Manager
 
 Task 3: Software Development Methods, Processes and Techniques
 
@@ -93,5 +93,22 @@ Scrum represents an incremental and iterative paradigm that divides the software
 Waterfall Methodology Description
 
 The software development lifecycle is divided into discrete parts by the Waterfall technique, which takes an organised, sequential approach. These phases are requirements gathering, design, implementation, testing, and deployment. Before going on to the next phase, each one must be finished, guaranteeing a clear plan and advance preparation. However, it may be difficult to adjust this inflexible framework to evolving needs or unanticipated events. This process is mostly used in cases where the project has upfront planning and where the customer Involvement is low. 
+
+Guidelines for Determining Software Development Methodology
+
+Some factors to determine whether a scrum or waterfall approach is required includes:
+
+Timeline
+
+When a project requires a more fixed timeline, waterfall methodology will be a preferred compared to scrum. Due to certain projects requiring to have a definitive features and finish date, some projects would require a waterfall approach. On the other hand, scrum methodology allows a more flexible timeline which can change depending on the system requirements as the software development cycle progresses.
+
+Flexibility
+
+Projects which have strict and definitive requirements are more likely to adopt a waterfall methodology, due to the waterfall’s nature of having a linear development cycle. While agile provides a more flexible software development cycle, client feedback enables developers to realign software development requirements to fit client’s needs.
+
+Collaboration
+
+If clients are more involved throughout the development process, scrum methodology would be preferred. In waterfall development, clients are less likely to be involved and teams are more concerned about their specific tasks. In a scrum development, developers and clients collaborate on the software to determine whether changes are needed, and clients would be able to assess whether the software developed is aligned with the client’s needs.
+
 
 
